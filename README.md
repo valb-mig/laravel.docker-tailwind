@@ -3,11 +3,11 @@ This project objective is to show how to use Laravel with Docker and Tailwind!
 
 ## 📌 Requirements
 
-![](https://img.shields.io/badge/Laravel-9.x-orange?style=for-the-badge&logo=laravel&logoColor=white)
+![](https://img.shields.io/badge/Laravel-11.x-orange?style=for-the-badge&logo=laravel&logoColor=white)
 ![](https://img.shields.io/badge/Docker-20.10.12-blue?style=for-the-badge&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/Tailwind-3.0.24-green?style=for-the-badge&logo=tailwindcss&logoColor=white) 
+![](https://img.shields.io/badge/Tailwind-3.4.4-green?style=for-the-badge&logo=tailwindcss&logoColor=white) 
 ![](https://img.shields.io/badge/PHP-8.3-yellow?style=for-the-badge&logo=php&logoColor=white)
-![](https://img.shields.io/badge/Node.js-16.x-blue?style=for-the-badge&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/Node.js-20.x-blue?style=for-the-badge&logo=node.js&logoColor=white)
 
 ## 📌 Installation
 
